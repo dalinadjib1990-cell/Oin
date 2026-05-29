@@ -1,0 +1,6 @@
+{
+  "name": "VeriPest Science Hub",
+  "description": "An honest, science-backed application that debunks pest repeller myths, features an interactive high-frequency audio tester, and includes a real AI pest identifier to solve insect problems using scientifically-proven methods.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
